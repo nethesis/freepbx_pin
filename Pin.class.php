@@ -238,5 +238,6 @@ class Pin implements \BMO
             }
         }
     }
+    public static function myConfigPageInits() { return array("routing"); }
 }
 
